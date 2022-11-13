@@ -1,0 +1,7 @@
+{
+  "data": {
+    "Led Zepplin": [
+      {
+        "song": "Babe I'm Gonna Leave you",
+        "lyrics": "Babe, baby, baby, I'm gonna leave you\nI said baby, you know I'm gonna leave you\nI'll leave you when the summertime\nLeave you when the summer comes a rollin'\nLeave you when the summer comes along\nBabe, babe, babe, babe, babe, babe, baby, baby\nI don't want to leave you\nI ain't jokin' woman, I got to ramble\nOh yeah\nBaby, baby, babe, I believin'\nWe really got to ramble\nI can hear it callin' me the way it used to do\nI can hear it callin' me back home\nBabe, I'm gonna leave you\nOh, baby, you know, I've really got to leave you\nOh I can hear it callin 'me\nI said don't you hear it callin' me the way it used to do?\nOh\nI know, I know\nI know I never never never never never gonna leave your babe\nBut I got to go away from this place\nI've got to quit you, yeah\nOoh, baby baby baby baby baby baby ooh\nDon't you hear it callin' me?\nWoman, woman, I know, I know\nIt feels good to have you back again\nAnd I know that one day baby, it's really gonna grow, yes it is\nWe gonna go walkin' through the park every day\nCome what may, every day\nOh, mama baby\nI'm gonna leave you go away\nIt was really, really good\nYou made me happy every single day\nBut now\nI've got to go away\nBaby, baby, baby\nThat's when it's callin' me\nI said that's when it's callin' me back home"
+      }
